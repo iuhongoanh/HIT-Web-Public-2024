@@ -1,0 +1,70 @@
+.meme{
+    height: 1400px;
+    width: 600px;
+    border: 1px solid white;
+    border-radius: 10px;
+    background-color:white ;
+    position: relative;
+    left:350px;
+    top:100px;
+}
+.image{
+    height: 270px;
+    width: 550px;
+    border: 1px solid white ;
+    background-image: url("https://kelsalamony.github.io/Recipe-page/images/image-omelette.jpeg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    border-radius: 5px;
+    position: relative;
+    top:25px;
+    left:25px;
+}
+.text1{
+    position: relative;
+    left:15px;
+    font-family: Georgia;
+    font-size: 14px;
+
+}
+.prepare{
+    width:550px;
+    height:150px;
+    border: 1px solid white;
+    border-radius: 10px;
+    position: relative;
+    left:25px;
+    background-color:hsl(330, 100%, 98%)
+}
+.text2{
+    position: relative;
+    left:15px;
+    font-family:Arial;
+    font-size: 14px;
+}
+hr{
+    margin-left: 40px;
+    margin-right: 40px;
+    height:0.1px ;
+    background-color: lightgrey;
+}
+table{
+   background-color: white;
+   border: 1px solid white;
+   width: 450px;
+   height: 150px;
+   border-collapse: collapse;
+}
+table ,th{
+    border-top:1px solid lightgrey;
+    border-bottom:1px solid lightgrey;
+    margin-left: 60px;
+
+}
+.color{
+    color:hsl(14, 45%, 36%)
+
+}
+body{
+    background-color:hsl(30, 54%, 90%);
+}
