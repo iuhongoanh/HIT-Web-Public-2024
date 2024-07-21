@@ -1,0 +1,85 @@
+.login{
+    width: 350px;
+    height:400px;
+    border: 1px solid rgb(247, 241, 241);
+    border-radius: 10px;
+    text-align: center;
+    background-color: #FAF0E6;
+    box-shadow: 5px 5px 5px rgb(169, 163, 163);
+    position: absolute;
+    top:50px;
+    bottom:100px;
+    left: 500px;
+   
+   }
+   h2{
+     margin-right:120px;
+     font-family: 'Lucida Sans';
+   }
+   p{
+       margin-right:75px;
+   }
+   #me{
+       margin-right:40px;
+   }
+   
+   button{
+       width:250px ;
+       height: 30px;
+       margin-bottom: 10px;
+       text-align: center;
+       background-color: #FFFAFA;
+       border-radius: 5px;
+       border-color: lightgrey;
+       border-width: 1px;
+   
+   }
+   input
+   {
+       width:250px ;
+       height: 30px;
+       margin-bottom: 10px;
+       background-color:#F5F5F5;
+       border-radius: 5px;
+       border-width: 1px;
+       border-color:#F5F5F5;
+   
+   }
+   #login{
+       background-color:#FF8C00;
+       height:35px;
+       margin-top: 10px;
+       color: white;
+   }
+   .kfc{
+     height: 400px;
+     width: 270px;
+     border: 1px solid rgb(239, 237, 237);
+     border-radius: 5px;
+     background-image: url("https://www.noichienkhongdau.com/wp-content/uploads/2022/05/ga-vien-chien-bang-noi-chien-khong-dau-2.jpg");
+     background-repeat: no-repeat;
+     background-size: 270px 250px ;
+     position: absolute;
+     top:500px;
+     left:540px;
+     background-color:white;
+     
+   }
+   .content{
+       position: relative;
+       bottom: -20px;
+       top: 260px;
+       left: 10px;
+       
+   }
+   #item{
+       border-radius: 100px;
+       background-color: #FF8C00;
+       color: #FFFAFA;
+       width: 170px;
+       margin-left: 40px;
+     
+   }
+   body{
+       background-color:bisque;
+   }
