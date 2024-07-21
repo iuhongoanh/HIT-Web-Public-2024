@@ -1,0 +1,33 @@
+.kfc{
+     height: 400px;
+     width: 280px;
+     border: 1px solid rgb(239, 237, 237);
+     border-radius: 5px;
+     background-image: url("https://www.noichienkhongdau.com/wp-content/uploads/2022/05/ga-vien-chien-bang-noi-chien-khong-dau-2.jpg");
+     background-repeat: no-repeat;
+     background-size: 280px 250px ;
+     position: relative;
+     top:50px;
+     left:500px;
+     background-color:white;
+     box-shadow: 5px 5px 5px rgb(169, 163, 163);
+     
+   }
+   .content{
+       position: relative;
+       bottom: -20px;
+       top: 260px;
+       left: 10px;
+       
+   }
+   #item{
+       border-radius: 100px;
+       background-color: #FF8C00;
+       color: #FFFAFA;
+       width: 170px;
+       margin-left: 40px;
+     
+   }
+   body{
+       background-color:bisque;
+   }
